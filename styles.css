@@ -4,11 +4,12 @@
 
 .rectangle {
   height: 200px;
-  width: 400px;
+  width: 500px;
   background-color: bisque;
   border-style: solid solid dashed dashed;
-  border-width: 10px;
+  border-width: 10px 20px;
   border-color: firebrick chartreuse burlywood aqua;
-  margin: 20px 30px 40px 50px;
+  margin: 50px 100px;
+  padding: 20px;
   font-size: 24px;
 }
